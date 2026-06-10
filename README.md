@@ -1,2 +1,0 @@
-# smpo
-Created with CodeSandbox
